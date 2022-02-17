@@ -81,7 +81,7 @@ export function AppMenu(props: AppMenuProps): h.JSX.Element {
 
   return (
     <div className={styles.root}>
-      <Typography type="bodyLarge">Mai UI Demo</Typography>
+      <Typography type="bodyLarge">MaiUI Demo</Typography>
       {settings.homeMenuLayout === ListLayout.Grid ? (
         <div className={styles.grid}>
           <Tile
