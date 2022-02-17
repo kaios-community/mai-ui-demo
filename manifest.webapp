@@ -1,0 +1,28 @@
+{
+  "id": "MaiUI",
+  "name": "MaiUI",
+  "description": "A UI component library for KaiOS",
+  "version": "1.0.0",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/assets/icons/icon_128.png",
+    "112": "/assets/icons/icon_112.png",
+    "56": "/assets/icons/icon_56.png"
+  },
+  "theme_color": "#ec5817",
+  "developer": {
+    "name": "Garrett Downs",
+    "url": "https://garrettdowns.com"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "locales": {
+    "en-US": {
+      "name": "MaiUI",
+      "subtitle": "A UI component library for KaiOS",
+      "description": "A UI component library for KaiOS"
+    }
+  },
+  "default_locale": "en-US",
+  "fullscreen": true
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mai-ui-demo",
+  "short_name": "mai-ui-demo",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#ae32a2"
+}

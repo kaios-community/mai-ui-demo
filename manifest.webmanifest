@@ -1,0 +1,41 @@
+{
+  "lang": "en-US",
+  "id": "com.garredow.mai-ui",
+  "name": "MaiUI",
+  "short_name": "MaiUI",
+  "categories": ["utilities"],
+  "description": "A UI component library for KaiOS",
+  "theme_color": "#ec5817",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/assets/icons/icon_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/assets/icons/icon_112.png",
+      "type": "image/png",
+      "sizes": "112x112"
+    },
+    {
+      "src": "/assets/icons/icon_56.png",
+      "type": "image/png",
+      "sizes": "56x56"
+    }
+  ],
+  "start_url": "/index.html",
+  "orientation": "portrait-primary",
+  "b2g_features": {
+    "version": "1.0.0",
+    "subtitle": "A UI component library for KaiOS",
+    "permissions": {},
+    "type": "privileged",
+    "origin": "app://com.garredow.mai-ui",
+    "developer": {
+      "name": "Garrett Downs",
+      "url": "https://garrettdowns.com"
+    }
+  }
+}
